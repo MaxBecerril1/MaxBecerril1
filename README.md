@@ -2,7 +2,7 @@
 
   # Welcolme to my Github profile :)
 
-![Banner](image.png)
+![Banner](Maximiliano Becerril.png)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-becerril-z%C3%A1rate-92186b142/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](maxbecerril2000@outlook.com)
 
 Medical Physics MSc student, researcher, and ML/DL enthusiast exploring Machine Learning, Deep Learning, Medical AI, and scientific data analysis. Interested in computational research, data-driven modeling, and applying intelligent methods to medicine, physics, and complex real-world problems
